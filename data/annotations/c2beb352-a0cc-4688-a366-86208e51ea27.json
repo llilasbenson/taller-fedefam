@@ -1,5 +1,7222 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...por razones políticas y madres de Plaza de Mayo. Comité que me encomendó el nombre de las asociaciones y de todos los argentinos comprometidos en esta causa, darles este saludo de bienvenida. No quiero dejar de mencionar la colaboración que hemos recibido"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "c313d311-6109-4882-861e-da22eadf7446"
+    },
+    {
+      "start_time": 36,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de las asociaciones de apoyo, de los comités de apoyo de nuestras asociaciones, de los compañeros liberados y de los compañeros de exexiliados. Porque el exilio, otro de los instrumentos represivos de la dictadura, se integra también en el interior."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "1b8ab8e8-cbe7-4bfe-8c0c-e452f8f07642"
+    },
+    {
+      "start_time": 59,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el exterior constituyeron grupos de activo apoyo a las luchas elevadas a cabo en el interior de los países. Y un reconocimiento especial al Instituto de Relaciones Internacionales que nos brindó, para nuestra absoluta disposición, sus oficinas. El Congreso es la autoridad máxima de la Federación."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "2bdb068c-c721-4440-83a8-a402f9dc0289"
+    },
+    {
+      "start_time": 88,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los países miembros ven en ella un puntal de apoyo y por eso, aun con grandes sacrificios, responden a su convocatoria. Ya se han realizado cinco congresos, lo que marca cinco años de existencia en esta lucha y ningún país ha quedado todavía totalmente fuera de ella."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "f896f09a-3174-440a-bdd4-2692048702a8"
+    },
+    {
+      "start_time": 117,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con muchos compañeros o compañeras nos venimos encontrando año a año en un intercambio vivo de nuestros trabajos, en un reencuentro feliz pero doloroso. Hoy, como la primera vez, allá en Costa Rica, estamos a distintas alturas en el camino de esta lucha contra la desaparición de personas,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "5dc372e0-25ac-4d89-ae02-e351ecab7c7d"
+    },
+    {
+      "start_time": 145,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la violación más terrible que pudo idearse en el martirologio a lo largo de los siglos vienen padeciendo los pueblos para el logro de una lejana y quizá utópica felicidad, la lucha por la vida, por la igualdad de los derechos, por la justicia y por la libertad. Ojalá no sea utópica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "9cfa8005-116f-46a7-ac93-75dfa71be057"
+    },
+    {
+      "start_time": 173,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muchos nos hemos enrollado en ella y muchas de las nuevas generaciones van tomando su compromiso. Pero también un objetivo único y preciso, superadas las fronteras de los países latinoamericanos, hermanados solidariamente, es la de luchar por la erradicación definitiva de este drama"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "9b41aab8-0424-4cd2-91c5-8c92a15a3367"
+    },
+    {
+      "start_time": 197,
+      "end_time": 226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no por casualidad abarca a casi toda América Latina. Los lemas de los sucesivos congresos marcan esos objetivos. No hay dolor nunca, hasta encontrarlo. La justicia no se cansa, vivos los llevamos, vivos los queremos. Y desde el quinto congreso que precede la sala, América Latina,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "9be2faa6-0565-487e-ae09-9bd5a2d89d76"
+    },
+    {
+      "start_time": 226,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desaparecidos por la vida y la libertad, juicio y castigo a los culpables. Queridos compañeros y compañeras, hermanos latinoamericanos, muchos de ustedes han venido de lejos, afrontando grandes esfuerzos económicos, venciendo serios problemas políticos, pero con una esperanza viva y calda,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "a2c084a7-a6d4-4c84-9008-16373eca4aea"
+    },
+    {
+      "start_time": 265,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que este encuentro nos enriquezca a todos en la lucha por el esclarecimiento del destino de nuestros seres queridos y nos refuerce en nuestras exigencias de juicio y castigo a los culpables, como meta inamovible para que esta tragedia no vuelva a darse nunca más. Un abrazo fraterno, bienvenidos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Plaza de Mayo",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Costa Rica",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Instituto de Relaciones Internacionales",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "5426c2d0-bb75-4332-b2bb-af791b37766e"
+    },
+    {
+      "start_time": 306,
+      "end_time": 313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me solicitan si el señor Alberto Lagar se encuentra entre los presentes, que tenga bien entonces subir al escenario."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lagar, Alberto",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "b9fa7d00-59c9-4773-8c3f-2bfe11d7b83d"
+    },
+    {
+      "start_time": 316,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chilenos, de ustedes, para ustedes, por ustedes, Pablo Neruda decía, Por estos nuestros muertos pido castigo, por los que de sangre salpicaron la patria,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Neruda, Pablo",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "c248240d-d27b-415d-84a6-a5f8b4880c25"
+    },
+    {
+      "start_time": 338,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pido castigo, para el verdugo que mandó esta muerte, para el traidor que ascendió sobre el crimen, no quiero que me den la mano empapada en nuestra sangre, no los quiero de embajadores, tampoco en su casa, tranquilos, los quiero ver aquí, juzgados, en esta plaza, en este sitio, Pido castigo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7a9d3cb4-50e6-4978-8bfb-4606a4ba363b"
+    },
+    {
+      "start_time": 401,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son tan cuantiosas las adhesiones que FEDEFAM ha recibido que estamos tratando de seleccionarlas no haciendo nada especial, por favor, sino simplemente que yo los invitaría a que ustedes observaran esta mesa y como también tenemos que gozar de la palabra de nueve oradores, vamos a tratar de leer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Hotel Castelar",
+          "category": "Lugares"
+        }
+      ],
+      "uuid": "1731bbac-d795-4eaa-b67b-48712cf74fa9"
+    },
+    {
+      "start_time": 425,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "todas las que podamos. Las que no, me participa el comité organizador que van a estar durante toda la semana en el Hotel Castelar en una cartelera especial. Por eso, si alguna queda sin leer desde ya en nombre del comité, pido disculpas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Hotel Castelar",
+          "category": "Lugares"
+        }
+      ],
+      "uuid": "34edc608-04d3-4347-8912-6874d8ca09d2"
+    },
+    {
+      "start_time": 445,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y dice el telegrama que tengo en mis manos, un infarto me impide viajar a Buenos Aires, pero me sobra corazón para estar con ustedes. Firma Eduardo Galeano."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galeano, Eduardo",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "dcd52ed5-1409-4687-ae08-17bb28d9ed8a"
+    },
+    {
+      "start_time": 473,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde la Asunción, estamos con ustedes. Las presas políticas somos parte integrante de las luchas del pueblo. Hoy nos encontramos transitoriamente separadas del grueso de las fuerzas populares, pero es el propio pueblo y sus organizaciones quienes asumen la defensa de la vida"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Paraguay--Asunción",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Salaquez, Patricia",
+          "category": "Personas"
+        },
+        {
+          "tag": "Escribano, Marcela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Moyano, María Soledad",
+          "category": "Personas"
+        },
+        {
+          "tag": "Arroyo, Solina",
+          "category": "Personas"
+        },
+        {
+          "tag": "Aranguiz, María Soledad",
+          "category": "Personas"
+        },
+        {
+          "tag": "Chalcatana, Cristina",
+          "category": "Personas"
+        },
+        {
+          "tag": "Acevedo, María Candelaria",
+          "category": "Personas"
+        },
+        {
+          "tag": "Ojeda, Arita",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "18181333-f98c-42c7-a232-bef4c7d7e35b"
+    },
+    {
+      "start_time": 499,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y la libertad de sus hijas e hijos en prisión. Firma Patricia Salaquez. María Candelaria Acevedo, Marcela Escribano, María Soledad Moyano y Solina Arroyo, María Soledad Aranguiz, Arita Ojeda, Cristina Chalcatana. Fraternalmente, hermanas nuestras, [inaudible] [aplauso]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Paraguay--Asunción",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Salaquez, Patricia",
+          "category": "Personas"
+        },
+        {
+          "tag": "Escribano, Marcela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Moyano, María Soledad",
+          "category": "Personas"
+        },
+        {
+          "tag": "Arroyo, Solina",
+          "category": "Personas"
+        },
+        {
+          "tag": "Aranguiz, María Soledad",
+          "category": "Personas"
+        },
+        {
+          "tag": "Chalcatana, Cristina",
+          "category": "Personas"
+        },
+        {
+          "tag": "Acevedo, María Candelaria",
+          "category": "Personas"
+        },
+        {
+          "tag": "Ojeda, Arita",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "d89e8e56-3ffc-4263-b164-7413d8ac1c5d"
+    },
+    {
+      "start_time": 537,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible] porque omití un detalle importantísimo, son hermas, hermanas, presas políticas chilenas, Los presos políticos argentinos, sobrevivientes del terrorismo de Estado, saludamos esta expresión de unidad latinoamericana expresada en la presencia de organizaciones de familiares"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzaga, Firma Julio",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "3dda6265-4ebe-4333-acc7-1e666da25485"
+    },
+    {
+      "start_time": 577,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de todo el continente, conscientes de que esta lucha es de fundamental importancia para la construcción y profundización de la democracia y para la libertad y los derechos de todos los pueblos. Compañeras, compañeros, vale que recordemos que en un coloquio del país en 1981 alguien decía"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzaga, Firma Julio",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "2c52885b-251d-41f1-86c3-2811023fed20"
+    },
+    {
+      "start_time": 641,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hace falta mantener dentro de un presente obstinado con toda su sangre y su ignominia esto que se procura hacer entrar en el cómodo país del olvido. Hace falta continuar considerando vivos a los que quizás ya no lo estén, pero tenemos la obligación"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzaga, Firma Julio",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "a7a5042a-7f93-4426-b845-c79effb130b6"
+    },
+    {
+      "start_time": 667,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de reclamar por ellos, uno por uno, hasta que la respuesta conmocione finalmente la verdad que hoy se busca eludir. Firma Julio Gonzaga."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gonzaga, Firma Julio",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "48b453a1-4074-4e58-ab00-da8e8eeffd99"
+    },
+    {
+      "start_time": 698,
+      "end_time": 715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miembro de la Asociación de Familiares de Detenidos y Desaparecidos y [inaudible] por la Liberación Nacional de Bolivia, presidente de FEDEFAM, nos dirige la palabra la señora Loyola Guzmán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Guzmán, Loyola",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asociación de Familiares de Detenidos",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Liberación Nacional de Bolivia",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "def81cb6-4aba-4cca-9e85-352a81419e75"
+    },
+    {
+      "start_time": 728,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compañeras y compañeros, tengo el gran honor y, al mismo tiempo, la gran responsabilidad de ser en este momento la portavoz de miles de voces de familiares de detenidos desaparecidos en América Latina. Queremos agradecer al pueblo argentino por la bienvenida que nos han dado,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "97d21090-14fc-4a06-a19d-49422ed8d1cf"
+    },
+    {
+      "start_time": 753,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "por la acogida que nos han dado en este territorio porque estamos además seguros que lo hacen con la firme convicción de unir su lucha a la lucha de todos los pueblos latinoamericanos. Hemos venido a la Argentina por varias razones, ya lo decía la compañera Elida. Primero, porque en Argentina"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "d9e0e779-5232-4f09-8be5-b3a67460d3ae"
+    },
+    {
+      "start_time": 777,
+      "end_time": 801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desaparecieron no solo argentinos, desaparecieron europeos y muchos latinoamericanos. También porque de aquí salieron exportando la represión a otros países. Pero esa es la parte negativa. La parte positiva no las da el pueblo, no las dan ustedes, porque estamos absolutamente seguros"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "655dfe28-9e9e-4198-81d8-d69725b89e97"
+    },
+    {
+      "start_time": 801,
+      "end_time": 826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de que jamás el verdadero pueblo argentino apoyó y aprobó esa forma de represión, esa forma de recibir a todos nuestros pueblos de manera conjunta y organizada. Por eso, porque además compartimos con el pueblo argentino el 10 de diciembre pasado el ingreso a un estado de derecha y democracia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "1ab1dcdc-2144-462c-98fd-29913aed4548"
+    },
+    {
+      "start_time": 826,
+      "end_time": 847,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque seguimos compartiendo con el pueblo argentino la esperanza de que esto se profundice y realmente marche garantizando la vida y la libertad de todos los ciudadanos argentinos y latinoamericanos. Y porque además estamos seguros de que lo que suceda aquí servirá de ejemplo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "2d0ea47a-e425-451d-a2ee-f1755a205914"
+    },
+    {
+      "start_time": 847,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "para lo que sucede en nuestros países. Por eso, compañeros, insistimos en venir a la Argentina a celebrar nuestro quinto congreso. Queremos decirles, compañeros, por otra parte, que la realidad latinoamericana no es optimista en este momento. Vemos por un lado que a pocos días del triunfo de Reagan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "c464c91d-7f04-480b-b627-b30fc31b7d29"
+    },
+    {
+      "start_time": 873,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se sucede ya el peligro de una agresión en Centroamérica directamente en Nicaragua. Y vemos la agresión directa a nuestra lucha. Hace cuatro días del triunfo el Departamento de Estado norteamericano publicó una lista con cuatro nombres de compañeras del Comité de Madres"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "73512a1d-365b-4638-bd50-d55fefd8763b"
+    },
+    {
+      "start_time": 896,
+      "end_time": 917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de Desaparecidos, Presos Políticos y Asesinados de El Salvador Monseñor Óscar Arnulfo Romero que recibió el premio Kennedy por su lucha por la defensa de los derechos humanos indicando que estas compañeras eran terroristas que lanzaban bombas y eran guerrilleras. Esta es la primera agresión"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "3ad68437-12b8-4615-a8f6-eebd7f8f28b5"
+    },
+    {
+      "start_time": 917,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que recibe el movimiento de familiares de desaparecidos en América Latina porque se está intentando desvirtuar nuestra lucha que como lo hemos mencionado es por la vida y la libertad no es por la muerte, no es por la guerra. En ese sentido vemos que el peligro para Centroamérica"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "813d2894-abd7-4126-b53b-3ebe72627679"
+    },
+    {
+      "start_time": 936,
+      "end_time": 964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "especialmente es muy grande. Hemos visto y lo testimoniarán las compañeras de El Salvador, de Guatemala, de Honduras la terrible situación de guerra que se vive allá, el horror que se está sufriendo por la represión con toda su secuela de desapariciones, asesinatos, prisión, tortura y terror."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "68383e68-1847-4cfe-8e96-d402b902976d"
+    },
+    {
+      "start_time": 965,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y esto, señores compañeros, no es sólo una amenaza para Centroamérica sino es también una amenaza pendiente para toda nuestra América Latina. En este marco es que los familiares estamos desarrollando nuestra lucha y pese a ello nos mantenemos firmes en nuestra decisión de luchar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "28f244bc-c293-4d4b-bc7b-11767a2248da"
+    },
+    {
+      "start_time": 988,
+      "end_time": 1010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "por nuestros seres queridos desaparecidos. Ni el horror que hemos visto en el Perú donde existe un gobierno constitucional pero que en poco menos de un año ha superado la cifra de 3.000 desaparecidos. Ni el horror que se vive día a día en Guatemala, donde como promedio desaparecen 3 personas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "22e287c0-2cd1-401d-bfc3-004d5d7bfa7c"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "diariamente va a hacer que nuestra lucha quede terminada. Más bien todo esto nos da fuerza para seguir luchando y evitar que más latinoamericanos sufran la angustia y el dolor que hemos sufrido muchos ya. Por eso mantenemos firme nuestra decisión de seguir en nuestros objetivos. Aparición con vida"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "a77d28fd-9f72-4077-bfba-6c26d5f0755c"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de los 90.000 desaparecidos. Restitución de los niños desaparecidos a sus verdaderas familias. Investigación, juicio y castigo a los culpables, militares y civiles, intelectuales y materiales de este horrible crimen. Y la prevención de este delito a través de leyes que se impongan en el carácter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "72e85ff3-44e9-447c-b867-4a50f1368b3a"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "nacional y la aprobación de la Convención que declare el crimen contra la humanidad la desaparición forzada. Creemos, además que hemos avanzado en el convencimiento en la toma de conciencia de que nuestra lucha no es exclusiva de un grupo de familiares, sino que es una lucha popular, es una lucha"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "31f54cbe-7a1c-456d-ba2e-dceaec318735"
+    },
+    {
+      "start_time": 1089,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de todos los pueblos. Y hemos avanzado y hemos ido los familiares, los que vamos dando los pasos necesarios para llegar a nuestro pueblo. No vamos a esperar que el pueblo venga a nosotros. No vamos a quedarnos llorando nuestro dolor, sino que en base a toda esa amable experiencia contribuiremos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "393e2792-2165-4f03-93a6-a5ed5c372d92"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "con ella, con fuerza, a la lucha de nuestro pueblo. Y hemos llegado en esta lucha a un otro convencimiento de que nuestra lucha no es aislada, no es regional, que no somos los únicos los que estamos sufriendo este dolor, sino que somos miles de latinoamericanos y esta dolorosa lucha ha hecho"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ccf80241-0e4b-433a-9b83-b0438d81ad0e"
+    },
+    {
+      "start_time": 1130,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que empecemos a practicar la solidaridad latinoamericana. Estamos empezando a hacer madres, hermanas, esposas argentinas o bolivianas que empezamos a sentir el dolor de las madres, esposas, hermanas, hijos, hijas salvadoreñas o guatemaltecas. El dolor no ha sido inútil. El dolor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "6f75733f-ba4e-427d-9c07-ccd48a1a1f4d"
+    },
+    {
+      "start_time": 1154,
+      "end_time": 1176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ha permitido que muchas mujeres, porque la mayoría del movimiento de familiares integra mujeres, salgan tal vez por primera vez de sus casas a tener conciencia de la realidad que viven los pueblos latinoamericanos. Por eso nuestra lucha es por los desaparecidos, es por los desposeídos de nuestra"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "9f6e73f9-ea5f-4d1a-a001-76e53dd98095"
+    },
+    {
+      "start_time": 1176,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "América Latina, es por un futuro mejor para todos. Gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Lugares"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Romero, Monseñor Óscar Arnulfo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Asesinados de El Salvador",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Comité de Madres",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "d724052e-8138-45aa-945f-2a4b49c3dc99"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muy bien."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9345befb-28b4-4a93-ae93-2333076ba5a8"
+    },
+    {
+      "start_time": 1206,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible] pero nosotros los argentinos lo recordamos cuando en 1976 lo secuestraron por su predica entre los habitantes de Villa Soldati. Es él, el sacerdote irlandés Patrick Rice… [aplauso, introducción inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina--Buenos Aires--Villa Soldati",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Rice, Patrick",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "73e4fa8c-7139-4d74-a048-98edfad5e351"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, el comité organizador del Congreso a mí me ha pedido hace unas semanas dedicar mi intervención a hacer un homenaje a un gran amigo de todos ustedes, a un gran amigo nuestro que ya está aquí presente con nosotros a pesar de su ausencia. En este sentido vamos a hablar de Alfredo Galletti"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "2234cbeb-41a1-46fb-9693-8e53fe0f5d65"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alfredo es un hombre, un filósofo, un pensador, un amante de la vida, de la cultura, que se dedicó desde temprana edad a buscar en la búsqueda del derecho, en la búsqueda del Estado de Derecho, en la cultura, dar una respuesta al drama que vivía el pueblo argentino."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "f70ede63-3021-4205-8b53-98eacca70737"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si consideramos que fue una maestra esta obra que tiene hoy construida, su historia constitucional argentina que él realizó en dos tomos en un país que está caracterizado precisamente por no haber tenido mucho respeto para su constitución. Sin embargo, Alfredo con esta filosofía,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "d1dc349e-2a20-49bd-9b59-e44caf609a94"
+    },
+    {
+      "start_time": 1353,
+      "end_time": 1374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "con este pensamiento profundo, este amor a la vida, se dedicó porque vio en este, digamos, de construir en Argentina, buscando la historia, buscando las perspectivas, digamos, un Estado de Derecho, un Estado de Democracia, un Estado donde se respeta a los derechos humanos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "2a582de1-0e31-48e5-9c05-4984e5fd4e83"
+    },
+    {
+      "start_time": 1375,
+      "end_time": 1396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trágicamente, el tercer tomo que él estaba preparando no lo pudo concluir porque fue allanado en su casa en La Plata y las notas que él estaba juntando para este tomo nunca pudo ser rescatado. Así fue la vida de Alfredo. La vida, como de muchos de ustedes, como de muchos de nosotros,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "c33e03e3-c277-4dd1-8a1f-d39b0d8fe72e"
+    },
+    {
+      "start_time": 1397,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que buscamos, que luchamos por la vida, luchamos por la libertad, luchamos por el Estado de Derecho, buscamos por la cultura, por la poesía, por la música y sin embargo sufren la persecución. Alfredo, desde hace muchos años sufría la persecución. Y así le vino para él el tremendo golpe que fue"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "87a5f817-7fdc-4cda-9c6b-b390233ac4dd"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la resurrección de su hija Liliana que seguía a él en la misma inquietud buscando la historia o estudiando la historia en la causa de los derechos humanos seguir el mismo camino. En este amor, este amor que creo que es una característica de Alfredo y de Liliana al pueblo de Argentina,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "db670905-ab8f-4e86-9770-a184952ff12f"
+    },
+    {
+      "start_time": 1442,
+      "end_time": 1466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a esta Argentina que ellos tantas querían digamos como muchos de ustedes que también como ellos son hijos de extranjeros pero al mismo tiempo son partes entrañables de este país. Así empezaron los duros golpes y creo que con una actitud extraordinaria valentía y coraje Alfredo también responde"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "1d5a39d2-e329-4da0-9e37-b644f3afc112"
+    },
+    {
+      "start_time": 1466,
+      "end_time": 1487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "inmediatamente buscando haciendo la denuncia y dedicando su vida a la causa de los derechos humanos. Es decir, en ese sentido fue un coraje, una decisión digamos que muchos digamos creo que todos en cierto sentido hemos tenido nuestras dudas pero vimos en Alfredo que no lo tuvo. Así"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ac358645-3c89-4d13-95ed-b107a1d6be84"
+    },
+    {
+      "start_time": 1487,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "digamos Liliana empezó también a tomar otras dimensiones. En el 79 fue co-fundador del CELS con varios otros abogados de centros de estudios legales y sociales y después nosotros empezamos a conocerlo en nuestra generación. Él participó muy activamente, fue el alma podemos decir de nuestro"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "8f6dcdc5-5d14-47e0-91f9-4f90ebda5529"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "proyecto de convención internacional que fue aprobado en el Congreso de Lima. Para muchos de ustedes que no han participado en este Congreso es impresionante ver a Alfredo cómo trataba de compaginar las inquietudes de los familiares sus necesidades y buscar un instrumento jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "88a8bbe9-b2f8-4dde-8df2-1ed9abd730c7"
+    },
+    {
+      "start_time": 1535,
+      "end_time": 1561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "un instrumento legal que pudiera cavilar a estas inquietudes. Y este fue su convención como intelectual como abogado es decir, el derecho que lo intelectual tenía que contemplar precisamente estas necesidades. Pero los golpes seguían después de que este proyecto fue aprobado nosotros tenemos un"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "3f73ac0c-0001-43b1-a9d2-17cdc1706294"
+    },
+    {
+      "start_time": 1561,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "gran compromiso de seguir este trabajo de lograr que Naciones Unidas sea declarada crímen contra la humanidad como lo fue declarado el año pasado en la Asamblea de los Estados Americanos y hace poco en el Consejo del Parlamento Europeo. Pero los golpes seguían esta criminalidad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "917fd69c-34e2-4862-a564-3fd07d2494ba"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de los militares, de un sistema que él siempre, en eso es un gran propulsor de muchos aquí presentes él siempre lo miró como un gran delito aquí, en la instalación de la doctrina de la seguridad nacional en este país. Fue uno de los elementos que él siempre señaló digamos, este veneno"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "03df0336-3888-436d-867e-7de56821814e"
+    },
+    {
+      "start_time": 1604,
+      "end_time": 1627,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "iba destruyendo la sociedad que en nuestro Congreso lo vamos a analizar bajo precisamente el terror como un factor de agresión social la doctrina de la seguridad nacional esta nefasta doctrina que en definitiva Alfredo mismo vino a hacer venir a ser víctima porque su muerte fue precisamente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "83fb2130-ec5c-4766-b9d0-81aa3b4a6f9a"
+    },
+    {
+      "start_time": 1627,
+      "end_time": 1652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y así lo interpretamos y creo aquí lo sentimos todos presentes fue efecto de toda esta destrucción que se producía esta destrucción [inaudible] desaparecida de la búsqueda, de las frustraciones de los valores que él creía los valores de la vida eran los tan burlados tan que ya"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "d07a5a07-8634-44c0-a9f3-2a1041d40b5e"
+    },
+    {
+      "start_time": 1652,
+      "end_time": 1678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "creo que llegó un momento cuando no pudo más y ese sentido él es víctima también de los militares es víctima de la doctrina de la seguridad pero para nosotros es testimonio de vida de una pasión por la vida de una pasión por la justicia y este nos anima y por eso decimos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ae9a738e-35c4-4c1c-9966-9baa282dd30a"
+    },
+    {
+      "start_time": 1679,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alfredo Galletti aquí está presente con nosotros por la vida y por la libertad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina--La Plata",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Galletti, Alfredo",
+          "category": "Personas"
+        },
+        {
+          "tag": "Naciones Unidas",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Parlamento Europeo",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "85de408c-44c2-4163-b9e2-b7a111003e89"
+    },
+    {
+      "start_time": 1709,
+      "end_time": 1767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Organización Católica Internacional del Cine y del Audiovisual de América Latina saluda atentamente y desea éxitos totales el Obispo Luciano Metzinger Obispo de Autenti, Perú Servicio de paz y justicia porque la paz es mucho en la justicia Coordinación Nacional Perú."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Metzinger, Luciano",
+          "category": "Personas"
+        },
+        {
+          "tag": "Organización Católica Internacional",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "f7a4d540-ef40-492e-94d5-5a7c3d36494c"
+    },
+    {
+      "start_time": 1767,
+      "end_time": 1777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muchas gracias. doctor Eduardo Barcesat"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Barcesat, Eduardo",
+          "category": "Personas"
+        }
+      ],
+      "uuid": "608d67f0-d8c9-40ee-91c6-05432ea884d1"
+    },
+    {
+      "start_time": 1788,
+      "end_time": 1810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compañeros y compañeras quiero hacer algunas reflexiones sobre este delito de la desaparición forzada de personas y de las vías populares y judiciales para luchar contra él. No vacilo en pensar que este es el crimen más horrendo que registra la historia de la humanidad podrá haber habido"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ffebd8b5-a081-4dbf-b076-b90ac265b9f5"
+    },
+    {
+      "start_time": 1810,
+      "end_time": 1838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "crímenes más masivos crímenes más letales en cuanto al número de afectados pero este esta forma de crimen presenta dos elementos dos ingredientes que no registran ninguna otra forma de agresión a la vida humana. Me refiero a la incertidumbre a la inseguridad a aquella vacilación que tenemos todos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "f23907cd-3d6f-4967-a637-94f5ab81c17d"
+    },
+    {
+      "start_time": 1838,
+      "end_time": 1863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sobre la suerte de los detenidos desaparecidos a ese cono de sombra que afecta no solo la vida y libertad de los desaparecidos sino también ese cono de sombra que afecta a sus familiares que afecta a quienes luchamos juntos a ellos y que afecta a la sociedad entera como una lacra como una vergüenza"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "315b2314-3cb2-4730-a141-f9a66146a046"
+    },
+    {
+      "start_time": 1863,
+      "end_time": 1890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "como un horror que la humanidad no debiera haber padecido. El otro elemento especial de este delito tan repugnante es el hecho que lo cometan nuestros propios patrocínales aquello que decía Cortázar en esa tan hermosa pieza contra el olvido que fragmentariamente fue expuesta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "6d3a325b-b1d4-4992-9fc6-bfbb00232989"
+    },
+    {
+      "start_time": 1890,
+      "end_time": 1910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "al comienzo de este Congreso es el hecho que hablen nuestro idioma es el hecho que veneran nuestros mismos símbolos que vistan nuestras mismas ropas que vayan a los principales que hemos concurrido a nosotros que sean ellos los victimarios de este horror es parte de ese ingrediente delictivo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "b3e1cb37-6399-4362-ad8a-5cc56a85d9a9"
+    },
+    {
+      "start_time": 1910,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no tuvimos comprensible con ninguna forma conocida en historia. ¿Cómo se ha aceptado este delito en nuestra sociedad? Es correcta la consigna de este Congreso quienes luchan por la autodeterminación que es el derecho a la vida de los pueblos desgraciadamente ponen en juego su propia vida"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "6b98b064-4281-4d41-bf73-9a8b15ad378e"
+    },
+    {
+      "start_time": 1936,
+      "end_time": 1956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y su propia libertad. No interesa aquí qué táctica, qué estrategia, qué creencia qué inspiración o qué idea llevó a esa lucha por la autodeterminación pero no nos cabe duda que ese aporte por la vida de la sociedad humana que ese aporte por quebrar el cerco del imperialismo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "38eea18a-0554-4c9b-8875-c939e6fb73e8"
+    },
+    {
+      "start_time": 1956,
+      "end_time": 1974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que ese aporte por quebrar la dependencia y auto[inaudible]irse en hacerse independientes y soberanas en lo político, en lo económico en lo cultural y en lo político eso ha sido el objetivo que ha llevado a la afectación de vida, libertad y de integridad física de los hombres desaparecidos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "0fabbb08-832e-4e60-8a8b-0559d38a6cca"
+    },
+    {
+      "start_time": 1974,
+      "end_time": 1992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es por eso que cualquiera sea su ideología cualquiera sea su táctica, su estrategia merecen todo nuestro aporte solidario merecen todo nuestro desvane y merecen la mayor de las luchas solidarias del pueblo argentino y del pueblo de América para recuperarlo como aquí se dice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ef42f740-911e-4610-beda-a4774ab9287a"
+    },
+    {
+      "start_time": 1992,
+      "end_time": 2024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "con la vida y el desataco que nos trae. Este crimen se sentó sobre un tríptico el secreto, la clandestinidad y la pretensión de impunidad secreto en la metodología y en la forma en que se montó ese gigantesco aparato de represión clandestinidad en la forma que operaban las privaciones de libertad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ac4876ba-8a86-4e0a-b4e2-aa3571a28c35"
+    },
+    {
+      "start_time": 2024,
+      "end_time": 2043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "todos ellos fueron secuestrados todos ellos fueron secuestrados por bandas que no se identificaron ni llevaban ninguna forma visible de identificación actuaron con un poder de fuego y con una forma tan tremenda de terror que ni siquiera sus propios familiares, los propios vecinos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "4bdf597a-527c-431f-afd0-3ad7b068669d"
+    },
+    {
+      "start_time": 2043,
+      "end_time": 2064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "los propios amigos pudieron reaccionar frente al hecho terrible de la desaparición forzada y han pretendido la impunidad para eso han plantado ese secreto ese secreto y esa clandestinidad han pretendido que ninguna perforación hubiera sobre ese cono de sombra que se volcó sobre la suerte"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ce81c334-c0d4-47d9-a259-9a062e8046c5"
+    },
+    {
+      "start_time": 2064,
+      "end_time": 2083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de los desaparecidos y cuando esta impunidad pudo estar afectada por alguna investigación y por la lucha del pueblo hacia el esclarecimiento de la fuerza de los desaparecidos pues han tratado bajo la forma de la autoamnistía o bajo la forma de procedimientos que puedan garantizar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "800e7a7d-fc96-4ca3-b1c0-262667a3463f"
+    },
+    {
+      "start_time": 2083,
+      "end_time": 2103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "su pretendida impunidad que esto no pudiera ser quebrantado pero creo que han fracasado este modelo, creo que este modelo está en crisis y creo que el pueblo argentino y el pueblo latinoamericano están en posibilidades de revertir y que la impunidad se convierta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "aa8c1f29-ae75-44b7-8885-12dc041d6aea"
+    },
+    {
+      "start_time": 2103,
+      "end_time": 2125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en juicio y castigo, que la clandestinidad no sea nunca más una forma de ejercicio del poder y que el secreto no caracteriza nuestras fuerzas armadas ¿Cómo luchar contra este tríptico en lo que aquí conocemos en la Argentina y en lo que corresponde a los pueblos de Latinoamérica? Hace años, en el 75"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "7b7d8f9e-1ed9-445b-ae61-653d21e55f1e"
+    },
+    {
+      "start_time": 2126,
+      "end_time": 2145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tuve el privilegio de una conversación con el General Torrijos. General Torrijos, refiriéndose a la situación de dominación a ese doloroso enclave colonial que es el Canal de Panamá que atraviesa su territorio pero bajo bandera de otro país, con 14 instalaciones de la potencia hegemónica del norte,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "67197e39-d488-4f52-b5e3-c4f77012e735"
+    },
+    {
+      "start_time": 2146,
+      "end_time": 2167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ese General decía que cuando alguien es débil no tiene otra forma de lucha contra el opresor que no sea el grito y que por eso toda su estrategia política había sido gritar había sido romper el silencio gritar en sus países, gritar fuera de sus países y creo que esta experiencia es válida"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "9fabb54d-e7ed-4835-96b9-f57183ef4550"
+    },
+    {
+      "start_time": 2167,
+      "end_time": 2185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "para quienes hemos luchado y luchamos contra el terrorismo del Estado tenemos que gritar gritar nuestro dolor, gritar nuestra indignación y no permitir que la insecreto, la clandestinidad y la impunidad se prosigan a ninguna desaparición a ningún secuestro"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "0230c85b-c8f0-4b80-b5cd-ad60a85c32c1"
+    },
+    {
+      "start_time": 2185,
+      "end_time": 2203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a ninguna afectación de la vida y la libertad ese es el valor que ha tenido la opinión pública internacional en el reclamo junto con Latinoamérica por el cese de esta práctica degradada y por el respeto a la vida y la libertad de quienes estamos comprometidos en la lucha por la"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "6073825c-418b-4e78-bfda-fbba77171e5d"
+    },
+    {
+      "start_time": 2203,
+      "end_time": 2227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "autodeterminación de los pueblos de Latinoamérica ¿Cómo se lleva esta forma la respuesta a la vía de la lucha judicial? Debo confesar que es poco lo que los abogados podemos aportar en este terreno. hemos luchado durante casi 10 años y no hemos logrado esclarecer todavía en sede judicial"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "3f2dd109-719a-4458-8cf8-a98e1aec20ae"
+    },
+    {
+      "start_time": 2227,
+      "end_time": 2248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "una sola desaparición forzada. Esto demuestra hasta que punto el aparato judicial del ejército de Estado fue cómplice de ese terrorismo y hasta que punto les cabe la misma responsabilidad que a los captores a quienes torturaron también les cabe, digo, a aquellos que silenciaron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "8396f834-e5cf-4966-b4cb-08123c6223bf"
+    },
+    {
+      "start_time": 2248,
+      "end_time": 2276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aquellos que impidieron la búsqueda de la verdad, aquellos que fueron los que encubrieron la posibilidad de determinar la suerte y el paradero de los desaparecidos. Como abogado como abogado no puedo menos que abominar de aquellos que luciendo el mismo diploma han utilizado"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "405dc8ce-99d8-484e-8bd1-0cf50a044d72"
+    },
+    {
+      "start_time": 2276,
+      "end_time": 2305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sus conocimientos para enturbiar la vida y la libertad humana para degradar la integridad física y psíquica del individuo y no han sabido elevarse a otra altura que la de los raptores torturadores La primera forma de lucha contra la desaparición forzada debe ser la exigencia de la publicidad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "dfaa2df0-e511-4d0c-b9ca-cd0e6f8fb6f8"
+    },
+    {
+      "start_time": 2305,
+      "end_time": 2327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en todo acto de fuerza del aparato del Estado no puede ser más carros anónimos carros de la muerte no puede ser más tropas no uniformadas no puede ser más fuerzas de seguridad Inidentificables. Aprovechemos estos intervalos lúcidos de la democracia en Latinoamérica para imponer normas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ceac2599-a6fe-4de6-bfb0-dea285fc891b"
+    },
+    {
+      "start_time": 2327,
+      "end_time": 2348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que garanticen que nunca más haya un empleo de la fuerza pública sin que se sepa quién es el que está ejercitando ese empleo de la fuerza pública y cuál es la suerte de quien es privado de su libertad. Y debemos constituir, sí, y estoy de acuerdo en norma interna y en convención internacional"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "c86e9308-9579-4d6b-bd47-d1c9257a6c3b"
+    },
+    {
+      "start_time": 2348,
+      "end_time": 2373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la represión y prevención de la privación ilegal de libertad caracterizada como desaparición forzada Y digo que nuestras normas son insuficientes y que deben estar constituidas este delito, el delito de lesa humanidad el delito cuya acción no puede prescribir nunca el delito cuya pena ha de ser"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "6cc3756b-d006-415f-87f9-7f5dd1bfbba6"
+    },
+    {
+      "start_time": 2373,
+      "end_time": 2395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "equiparada a la pena de muerte el delito que no debe conceder jamás la extradición a quienes han sido autores, investigadores cómplices o encubridores de la comisión de este delito delito que no puede y debe ser admitido bajo ninguna forma, porque es un delita contra la humanidad. Y fundamentalmente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "933c348e-5a5c-44eb-b3c2-7142212ccc2e"
+    },
+    {
+      "start_time": 2395,
+      "end_time": 2417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "digo, convención internacional, que debe poner de cargo de quienes ejercitan la acción de gobierno la responsabilidad de toda desaparición que se produzca invirtiendo en la carga de la fuerza los que tienen que probar el delito será el gobierno el que tenga que Acreditarse [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "9ac6436c-e045-4b98-8a70-e1b90c503024"
+    },
+    {
+      "start_time": 2435,
+      "end_time": 2454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible] por una reflexión no jurídica, pero que sea una expresa el acto de todos nosotros, de uno u otro lado, cualquiera sea nuestro modo de ejercicio y de presencia en la sociedad respecto de este compromiso con la vida respecto de este compromiso con la transformación para una sociedad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "5fa04011-dbd1-4288-90cf-63c4ccbba615"
+    },
+    {
+      "start_time": 2454,
+      "end_time": 2472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "más justa. Y he elegido unas palabras de un escritor Alejo Carpentier. Dice así finalizando el reino de este mundo, “Padece, espera y trabaja para gente que nunca conocerá y que a su vez padecerán y esperarán y trabajarán para otros que tampoco serán felices."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ccb9aa05-5fdc-4813-a1b9-2fd393e9455c"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pues el hombre ansía siempre una felicidad situada más allá de la porción que le es otorgada. Pero la grandeza del hombre está precisamente en querer mejorar lo que es. En imponerse tareas. En el reino de los cielos no hay grandeza que conquistar, puesto que allí toda es jerarquía establecida,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "b1958060-547f-4701-88c8-e83b86ddfa70"
+    },
+    {
+      "start_time": 2492,
+      "end_time": 2536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "incógnita, despejada, existir sin término, imposibilidad de sacrificio, reposo y deleite. Por ello, agobiado de penas y de tareas, hermoso dentro de su miseria, capaz de amar en medio de las plagas, el hombre sólo puede hallar su grandeza, su máxima medida en el Reino de este Mundo.” Continua ahora"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "f579bca8-4177-4f68-9f9d-852df65fc3a3"
+    },
+    {
+      "start_time": 2536,
+      "end_time": 2655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la del Centro de Estudios y Publicaciones de Lima, Perú Comisión de Derechos Humanos de Extremadura con el Ministerio de Sanidad Graciela de la Torre del Diario La República de Lima, Perú llamando a la solidaridad internacional por el hallar azul Lima, Perú Aparición con vida"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "98a8e3f1-2982-47c6-b0e3-ed0f6406dfcd"
+    },
+    {
+      "start_time": 2655,
+      "end_time": 2712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de los detenidos desaparecidos Libertad a todos los presos políticos Juventud peronista de Avellaneda Aplausos De ex detenidos desaparecidos nos solidarizamos con el V Congreso de Fedefam y adherimos a sus consignas Como víctimas de la represión desatada por el terrorismo de Estado pero también"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "1fba2891-231e-424a-b691-2566e6ab9501"
+    },
+    {
+      "start_time": 2712,
+      "end_time": 2768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "como testigos del horror venimos denunciando y bregando por el juicio y castigo a los culpables Venimos a traer nuestro modesto aporte a esta lucha de toda Latinoamérica de la cual formamos parte ya indisolublemente Por la justicia por la paz por la vida por la liberación de los metodistas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "158eefff-eea2-4f3e-8fe2-2184e063d634"
+    },
+    {
+      "start_time": 2768,
+      "end_time": 2794,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ha ejercido su misión pastoral en centros del interior del país y en el exterior Actualmente es superintendente de la región metropolitana y director de la revista Islandar Evangélico órgano oficial de la Iglesia Metodista y de la agencia de noticias Prensa Ecuménica Hemos querido"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "d21d20ff-42c4-4f54-86fa-3748a385f9df"
+    },
+    {
+      "start_time": 2794,
+      "end_time": 2840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que hoy esté junto a nosotros y nos dirija unas palabras el pastor Aníbal Sicardi Amigos argentinos En cada oportunidad que tengo que dirigir algunas palabras a una asamblea como la presente siento siempre los mismos sentimientos encontrados por una parte el hecho de sentirlo como un privilegio"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "9c31d372-de7f-4f24-b08b-a1c10c469654"
+    },
+    {
+      "start_time": 2840,
+      "end_time": 2869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y por otro lado el sentimiento de que no merezco ni se merece estar ante personas que han llevado tanto dolor en tan poco tiempo De todas maneras en estas circunstancias estoy cubriendo la ausencia de quien debería dirigirles las palabras a ustedes que es el Obispo Federico Pagura"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "6c831207-e482-432b-be03-711b7a11ae1b"
+    },
+    {
+      "start_time": 2870,
+      "end_time": 2892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Obispo de la Iglesia Evangélica Metodista Argentina y Presidente del Consejo Latinoamericano de Iglesias CLAI quien no puede partecer porque con mucha anterioridad había comprometido estar durante esta semana desde el sábado pasado por la provincia de Córdoba Santa y Turumán"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "942693bc-8f0f-4d68-af79-10f63301bd52"
+    },
+    {
+      "start_time": 2892,
+      "end_time": 2919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "donde visita nuestra obra y está también su oportuna palabra pero aquí me recomiendo mucho que le trajera su apetuoso saludo y deseos de éxito en el trabajo que desarrollará durante estos días Me inspiró la posibilidad de decir algunas palabras acerca de la Iglesia Latinoamericana y en relación"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "781e9d97-3759-4fd9-9983-5191b1f4f1dd"
+    },
+    {
+      "start_time": 2919,
+      "end_time": 2945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "por supuesto con este hecho de la desaparición de personas Una reflexión que cabe en estos momentos tan cruciales para nuestro continente Una reflexión que se va haciendo como todas aquellas cosas importantes en el accionar de la vida que casi no hay tiempo para meditar acerca"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "0e619769-d1db-4d3b-9a37-baa2d872aaaf"
+    },
+    {
+      "start_time": 2945,
+      "end_time": 2973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de lo que se está realizando Quizás menos se ha meditado justamente en relacionar con este hecho tan cruel que ha acontecido en nuestro continente De allí que desde que hablamos con la señora Galletti y que debería decirles estas palabras aparecen en mi mente las palabras de Jesús que solía utilizar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ae6cbb5b-f493-42ac-b565-9b06ad6c8d04"
+    },
+    {
+      "start_time": 2973,
+      "end_time": 3001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "después de dar algunas de sus enseñanzas y especialmente las palabras y que entonces se decía Los que tienen oídos para oír, oigan Y con eso estaba sintetizando todas aquellas problemáticas que tiene el hecho de oír Que no es sólo el escuchar y entender la conexión que hay entre una palabra y otra"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "31858275-8947-451e-8b34-986e77a5bd82"
+    },
+    {
+      "start_time": 3001,
+      "end_time": 3022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "para poder comprender de algún idioma determinado sino el hecho de poder entender el significado del sentido que va dentro de ella y lo que quiere decir para nuestra propia mente Similar a lo que también Jesús en ocasiones utilizó y mucho más utilizaba en los libros del Antiguo Testamento"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "4c2687ea-cf3b-467a-98d9-fde609322097"
+    },
+    {
+      "start_time": 3022,
+      "end_time": 3047,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cuando se decía que el que tiene oídos para oír, oiga El oír es no sólo, perdón, el ver el que tiene ojos para ver, que vea el ver que no es sólo ver las formas que están al nuestro alrededor quizás como ahora yo las veo en formas difusas a ustedes sino el hecho de poder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "6158c3e0-7a36-41bc-be48-d191fc7a60ee"
+    },
+    {
+      "start_time": 3047,
+      "end_time": 3080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ver lo que acontece realmente de manera en que la realidad sea la que vaya inundando nuestro propio ser y convierta nuestras irrealidades Yo diría hermanas y hermanos que han sufrido tan directamente este hecho de la desaparición de personas es que el clamor de ustedes el Cristo, como recién"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "01472c40-2729-48e5-b790-69b5e9df2e74"
+    },
+    {
+      "start_time": 3080,
+      "end_time": 3110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se mencionaba ha llegado a muchos hombres y mujeres de buena voluntad de nuestro continente y también a la Iglesia que tenía muy duros sus oídos para escuchar los clamores de los asistidos y muy enseguecidos sus ojos para ver realmente el sufrimiento de los otros en nuestra terminología"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "2b75f699-0aa5-4328-bdc4-7d7e79899009"
+    },
+    {
+      "start_time": 3112,
+      "end_time": 3136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que ya a veces es demasiado femenina sería como decir que el clamor, como se dice en el éxodo de los hijos de Dios sube, atarcido y bajó hasta encarnarse en los hombres y mujeres que dejaron que el dolor y el sufrimiento de los otros y el ver la realidad que acontecía cambiaran sus propias vidas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ffa2f902-c932-46b8-a309-5484d2223491"
+    },
+    {
+      "start_time": 3137,
+      "end_time": 3162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cambiaran las vidas y que surge entonces dentro de la Iglesia latinoamericana aquellos hombres y mujeres que cambiando su estilo de vida luchando dentro de sus propias instituciones comenzaron a caminar juntamente con la legión de aquellos que clamaban por justicia y verdad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ba11a285-32e2-4f5b-9a98-99c44d766524"
+    },
+    {
+      "start_time": 3163,
+      "end_time": 3189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en este caso aquellos que clamaban y con tanta razón que si vivos los llevaron vivos lo deberían detraer en ese sentido ese clamor ha actuado como si fuera la misma voz de Dios que convierte a los hombres y a las mujeres y que entonces se comienzan a cambiar muchas cosas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "83d85def-a9f9-4e00-b690-f048c35f8d11"
+    },
+    {
+      "start_time": 3191,
+      "end_time": 3217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "nos comenzamos a dar cuenta entonces en esta Iglesia latinoamericana que si bien en el Evangelio se dice que el sol sale para todos eran unos pocos que lo usaban muy bien mientras que muchos vivían en lo hondo de las minas tapados por las paredes de las fábricas o con un espacio de vida"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "965ef9a9-d50c-48ae-9f7d-b5fada64d823"
+    },
+    {
+      "start_time": 3217,
+      "end_time": 3245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tan corta por la desnutrición que entonces no alcanzaban a gozar de la creación nos dimos cuenta en esta Iglesia que también ya tenía una historia muy atrás donde la misma Iglesia había sido usada como parte del proyecto de opresión de nuestro pueblo el clamor de ustedes era el clamor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "d7ce182d-22a9-44a3-a73a-66b393dc5c3f"
+    },
+    {
+      "start_time": 3245,
+      "end_time": 3271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que se encadenaba con los desvalidos de otros tiempos y los de ahora y con aquellos aborígenes indígenas de nuestro continente que habían sido expoliados por los conquistadores en el nombre de la Cruz y allí surge entonces una nueva Iglesia una nueva Iglesia que entiende entonces que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "30d362b4-7be0-4909-b307-d71259e5eb3e"
+    },
+    {
+      "start_time": 3271,
+      "end_time": 3297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cuando no se alcanza a juzgar como se debe de juzgar a los criminales que azotaron nuestro continente no es porque no se consigan pruebas ni tampoco porque en realidad el delito de desaparición no está identificado en nuestros códigos de justicia sino por una razón mucho más profunda y más embromada"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "b4ce07ff-b760-462c-bb1c-deab6c594103"
+    },
+    {
+      "start_time": 3298,
+      "end_time": 3333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que los códigos de la justicia como la sociedad en que vivimos ha sido estructurada para beneficio de unos pocos y para perjuicio de los muchos para beneficio de los que tienen y para perjuicio de los que no tienen de guante blanco y puedan seguir caminando por nuestras calles sin el juicio"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "ef4acda9-8497-48fe-81c7-846d2acbd2e4"
+    },
+    {
+      "start_time": 3335,
+      "end_time": 3371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hemos llegado a comprender que esa justicia sólo puede llegar a ser justa cuando en vez de salir de las cédiles salga del signo del mismo pueblo Y lo hace entonces que nosotros mismos podamos entender cómo debemos cambiar todo nuestro estilo cómo debemos reveer todo aquello"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "97b4dfbf-3212-4eb2-b80d-e93032d78b3e"
+    },
+    {
+      "start_time": 3371,
+      "end_time": 3397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que hemos hecho quizás por signo y confesar los pecados de nuestros padres también nuestros que queriendo o sin querer hemos ayudado a la opresión Es cierto que existe también otra Iglesia Es cierto que también nosotros vemos especialmente lo que más suele ser publicado en los medios de comunicación"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "d1b58993-7fcd-40ff-9ed8-3f70f1f5d8d4"
+    },
+    {
+      "start_time": 3397,
+      "end_time": 3441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no pertenece en a este sector que les estoy hablando pero existen otros que escriben documentos y hablan solamente para defenderse cuando se les toca alguna porción de su poder o de sus poderes Entonces se enojan y se oristan porque en realidad ellos mismos no entienden cuando se está hablando ellos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "3cd95ff0-40cb-4d3f-bd55-a1a499820609"
+    },
+    {
+      "start_time": 3441,
+      "end_time": 3468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de algún avance en la pornografía o en alguna película o obra de teatro subida del oro que se horrorizan cuando quizás por algunos centímetros menos en el vestido se ven algunas partes tundulosas del cuerpo humano pero que callaron y pusieron su ropa a sus bocas cuando en la sala de torturas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "e3b78e83-0c6d-4a89-af29-05324e06e27d"
+    },
+    {
+      "start_time": 3468,
+      "end_time": 3513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no los vestidos sino los cuerpos humanos eran rotos violaban a muchas mujeres a una presencia de sus hijos es cierto que existe también esa iglesia esa iglesia que se pone colorada porque se dicen malas palabras y no critican los programas que realmente son de mal gusto más que el problema de decir"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "512bbfda-cc31-4b28-b1cf-b4afe73c65c9"
+    },
+    {
+      "start_time": 3513,
+      "end_time": 3536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "malas palabras y hablar malas de palabras en este tiempo como la entendemos otros de esa iglesia que está queriendo entender todo lo que pasa es otra cosa las malas palabras no son las que esas no se pueden decir en algunas tertulias después de todo las malas palabras hoy son cuando"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panamá--Canal de Panamá",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Perú--Lima",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Extremadura",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Córdoba (Provincia)",
+          "category": "Lugares"
+        },
+        {
+          "tag": "Torrijos, General",
+          "category": "Personas"
+        },
+        {
+          "tag": "Carpentier, Alejo",
+          "category": "Personas"
+        },
+        {
+          "tag": "de la Torre, Graciela",
+          "category": "Personas"
+        },
+        {
+          "tag": "Sicardi, Aníbal",
+          "category": "Personas"
+        },
+        {
+          "tag": "Pagura, Federico",
+          "category": "Personas"
+        },
+        {
+          "tag": "Cortázar, Julio",
+          "category": "Personas"
+        },
+        {
+          "tag": "Islandar Evangélico",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Iglesia Evangélica",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Consejo Latinoamericano",
+          "category": "Organizaciones"
+        },
+        {
+          "tag": "Ministerio de Sanidad",
+          "category": "Organizaciones"
+        }
+      ],
+      "uuid": "1b0f67a4-fbd2-49b4-84ac-368ef6c57f83"
+    }
+  ],
   "set": "Default",
   "event_id": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
   "source_id": "49cc9a9f-2ed9-4136-bb09-0ec35aa75914"
