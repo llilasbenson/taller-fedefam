@@ -150,7 +150,9 @@
               "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
               "includes": [
                 "media",
-                "annotations"
+                "annotations",
+                "description",
+                "label"
               ],
               "start": 306,
               "end": 313,
@@ -237,7 +239,9 @@
               "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
               "includes": [
                 "media",
-                "annotations"
+                "annotations",
+                "label",
+                "description"
               ],
               "start": 316,
               "end": 382,
@@ -324,7 +328,9 @@
               "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
               "includes": [
                 "media",
-                "annotations"
+                "annotations",
+                "label",
+                "description"
               ],
               "start": 401,
               "end": 444,
@@ -783,7 +789,7 @@
   "created_by": "llilasbenson",
   "title": "V Congreso Argentina 1984",
   "slug": "v-congreso-argentina-1984",
-  "updated_at": "2026-07-16T02:26:46.661Z",
+  "updated_at": "2026-07-16T02:33:24.285Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
     "enabled": false,
