@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "49cc9a9f-2ed9-4136-bb09-0ec35aa75914": {
+      "label": "V Congreso Argentina 1984, parte 1",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/g3b95y86c70fzt1ic74xkju6510k538q.mp3",
+      "duration": 3539,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "V Congreso Argentina 1984",
+  "av_file_order": [
+    "49cc9a9f-2ed9-4136-bb09-0ec35aa75914"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
+  "created_at": "2026-07-16T01:10:19.179Z",
+  "created_by": "llilasbenson",
+  "updated_at": "2026-07-16T01:10:19.179Z",
+  "updated_by": "llilasbenson"
+}
