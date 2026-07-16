@@ -38,6 +38,47 @@
                   "text": "La oradora da la bienvenida al V Congreso de FEDEFAM, agradece la solidaridad recibida y reafirma la lucha latinoamericana por conocer el destino de los desaparecidos, lograr justicia y castigar a los responsables."
                 }
               ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
+              "includes": [
+                "media",
+                "annotations",
+                "description"
+              ],
+              "start": 3,
+              "end": 291,
+              "file": "49cc9a9f-2ed9-4136-bb09-0ec35aa75914",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -71,6 +112,22 @@
               "children": [
                 {
                   "text": "Se solicita que Alberto Lagar, si se encuentra presente, suba al escenario."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -108,6 +165,22 @@
                   "text": "Se recitan versos de Pablo Neruda para exigir que los responsables de la represión y las muertes sean juzgados y castigados."
                 }
               ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -141,6 +214,22 @@
               "children": [
                 {
                   "text": "La presentadora explica que, debido al gran número de adhesiones recibidas por FEDEFAM y al programa de oradores, solo podrán leerse algunas, mientras que las restantes serán exhibidas en el Hotel Castelar."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -178,6 +267,22 @@
                   "text": "Eduardo Galeano comunica que un infarto le impide viajar a Buenos Aires, pero expresa su plena solidaridad con el Congreso."
                 }
               ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -211,6 +316,22 @@
               "children": [
                 {
                   "text": "Un grupo de presas políticas chilenas manifiesta desde Asunción que su encarcelamiento forma parte de las luchas populares y agradece la defensa solidaria de su vida y libertad."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -248,6 +369,22 @@
                   "text": "Los presos políticos argentinos sobrevivientes del terrorismo de Estado saludan la unidad latinoamericana y exhortan a mantener viva la memoria y el reclamo por cada persona desaparecida hasta alcanzar la verdad."
                 }
               ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -281,6 +418,22 @@
               "children": [
                 {
                   "text": "Se presenta a Loyola Guzmán, integrante de una asociación boliviana de familiares de detenidos y desaparecidos y presidenta de FEDEFAM. Loyola Guzmán agradece al pueblo argentino, denuncia la desaparición forzada y la represión en América Latina, y reafirma la lucha continental por la aparición con vida, la restitución de los niños, el juicio a los culpables y el reconocimiento internacional de este crimen de lesa humanidad."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -318,6 +471,22 @@
                   "text": "Se presenta al sacerdote irlandés Patrick Rice, recordando su secuestro en 1976 debido a su trabajo pastoral en Villa Soldati. Patrick Rice homenajea al jurista Alfredo Galletti por su compromiso con el Estado de derecho, los derechos humanos y la creación de instrumentos jurídicos internacionales contra la desaparición forzada."
                 }
               ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -351,6 +520,22 @@
               "children": [
                 {
                   "text": "Organizaciones católicas, audiovisuales y de derechos humanos del Perú envían sus saludos y deseos de éxito al Congreso."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -443,7 +628,6 @@
       "includes": [
         "media",
         "annotations",
-        "label",
         "description"
       ],
       "start": 3,
@@ -465,20 +649,6 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -491,7 +661,7 @@
   "created_by": "llilasbenson",
   "title": "V Congreso Argentina 1984",
   "slug": "v-congreso-argentina-1984",
-  "updated_at": "2026-07-16T01:36:45.894Z",
+  "updated_at": "2026-07-16T01:48:01.500Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
     "enabled": false,
