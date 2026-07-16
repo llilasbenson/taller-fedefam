@@ -22,7 +22,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:00:03 - 00:04:51\tSección 1: Bienvenida"
+                  "text": "00:00:03 - 00:04:51\t"
+                },
+                {
+                  "text": "Sección 1: Bienvenida",
+                  "bold": true
                 }
               ]
             }
@@ -59,13 +63,20 @@
               "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
               "includes": [
                 "media",
-                "annotations",
-                "description"
+                "annotations"
               ],
               "start": 3,
               "end": 291,
               "file": "49cc9a9f-2ed9-4136-bb09-0ec35aa75914",
               "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
               "children": [
                 {
                   "text": ""
@@ -98,7 +109,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:05:06 - 00:05:13\tAnuncio"
+                  "text": "00:05:06 - 00:05:13\t"
+                },
+                {
+                  "text": "Anuncio",
+                  "bold": true
                 }
               ]
             }
@@ -130,6 +145,38 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "start": 306,
+              "end": 313,
+              "file": "49cc9a9f-2ed9-4136-bb09-0ec35aa75914",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -149,7 +196,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:05:16 - 00:06:22\tSección 2: \"Pido castigo\" por Neruda"
+                  "text": "00:05:16 - 00:06:22\t"
+                },
+                {
+                  "text": "Sección 2: \"Pido castigo\" por Neruda",
+                  "bold": true
                 }
               ]
             }
@@ -181,39 +232,20 @@
                   "text": ""
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        2,
-        4
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
+            },
             {
-              "type": "paragraph",
+              "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "start": 316,
+              "end": 382,
+              "file": "49cc9a9f-2ed9-4136-bb09-0ec35aa75914",
+              "type": "event",
               "children": [
                 {
-                  "text": "00:06:41 - 00:07:24\tSección 3: Adhesiones"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "La presentadora explica que, debido al gran número de adhesiones recibidas por FEDEFAM y al programa de oradores, solo podrán leerse algunas, mientras que las restantes serán exhibidas en el Hotel Castelar."
+                  "text": ""
                 }
               ]
             },
@@ -251,7 +283,98 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:07:25 - 00:07:40\tSección 3: Carta 1"
+                  "text": "00:06:41 - 00:07:24\t"
+                },
+                {
+                  "text": "Sección 3: Adhesiones",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La presentadora explica que, debido al gran número de adhesiones recibidas por FEDEFAM y al programa de oradores, solo podrán leerse algunas, mientras que las restantes serán exhibidas en el Hotel Castelar."
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "start": 401,
+              "end": 444,
+              "file": "49cc9a9f-2ed9-4136-bb09-0ec35aa75914",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "horizontal-separator",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:07:25 - 00:07:40\t"
+                },
+                {
+                  "text": "Sección 3: Carta 1",
+                  "bold": true
                 }
               ]
             }
@@ -302,7 +425,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:07:53 - 00:08:53\tSección 3: Carta 2"
+                  "text": "00:07:53 - 00:08:53\t"
+                },
+                {
+                  "text": "Sección 3: Carta 2",
+                  "bold": true
                 }
               ]
             }
@@ -353,7 +480,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:08:57 - 00:11:22\tSección 3: Carta 3"
+                  "text": "00:08:57 - 00:11:22\t"
+                },
+                {
+                  "text": "Sección 3: Carta 3",
+                  "bold": true
                 }
               ]
             }
@@ -404,7 +535,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:11:38 - 00:19:42\tSección 4: Loyola Guzmán"
+                  "text": "00:11:38 - 00:19:42\t"
+                },
+                {
+                  "text": "Sección 4: Loyola Guzmán",
+                  "bold": true
                 }
               ]
             }
@@ -455,7 +590,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:20:06 - 00:28:05\tSección 5: Patrick Rice"
+                  "text": "00:20:06 - 00:28:05\t"
+                },
+                {
+                  "text": "Sección 5: Patrick Rice",
+                  "bold": true
                 }
               ]
             }
@@ -506,7 +645,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:28:29 - 00:29:27\tSección 6: Saludos"
+                  "text": "00:28:29 - 00:29:27\t"
+                },
+                {
+                  "text": "Sección 6: Saludos",
+                  "bold": true
                 }
               ]
             }
@@ -557,7 +700,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "00:29:27 - 00:58:56\tSección 7: Dr. Eduardo Barcesat"
+                  "text": "00:29:27 - 00:58:56\t"
+                },
+                {
+                  "text": "Sección 7: Dr. Eduardo Barcesat",
+                  "bold": true
                 }
               ]
             }
@@ -611,37 +758,13 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        },
-        {
-          "text": "Sección 1: Bienvenida",
-          "bold": true,
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
       "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
       "includes": [
         "media",
         "annotations",
         "description"
       ],
-      "start": 3,
-      "end": 291,
-      "file": "49cc9a9f-2ed9-4136-bb09-0ec35aa75914",
       "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -661,7 +784,7 @@
   "created_by": "llilasbenson",
   "title": "V Congreso Argentina 1984",
   "slug": "v-congreso-argentina-1984",
-  "updated_at": "2026-07-16T01:48:01.500Z",
+  "updated_at": "2026-07-16T02:00:35.973Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
     "enabled": false,
