@@ -761,8 +761,7 @@
       "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "type": "event",
       "children": [
@@ -784,7 +783,7 @@
   "created_by": "llilasbenson",
   "title": "V Congreso Argentina 1984",
   "slug": "v-congreso-argentina-1984",
-  "updated_at": "2026-07-16T02:00:35.973Z",
+  "updated_at": "2026-07-16T02:25:18.283Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
     "enabled": false,
