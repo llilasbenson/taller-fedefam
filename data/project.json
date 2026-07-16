@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "llilasbenson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "llilasbenson",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-07-16T01:04:26.640Z",
-    "updated_at": "2026-07-16T01:04:26.640Z"
-  }
+    "updated_at": "2026-07-16T01:04:26.640Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "0653265d-dcca-4d80-957d-ffe9115c33b1": {
+      "content": [],
+      "created_at": "2026-07-16T01:04:26.658Z",
+      "created_by": "llilasbenson",
+      "title": "Ejemplo FEDEFAM",
+      "updated_at": "2026-07-16T01:04:26.658Z",
+      "updated_by": "llilasbenson",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "0653265d-dcca-4d80-957d-ffe9115c33b1"
+  ]
 }
