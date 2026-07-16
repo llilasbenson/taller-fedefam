@@ -9,6 +9,462 @@
       ]
     },
     {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:00:03 - 00:04:51\tSección 1: Bienvenida"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La oradora da la bienvenida al V Congreso de FEDEFAM, agradece la solidaridad recibida y reafirma la lucha latinoamericana por conocer el destino de los desaparecidos, lograr justicia y castigar a los responsables."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:05:06 - 00:05:13\tAnuncio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Se solicita que Alberto Lagar, si se encuentra presente, suba al escenario."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:05:16 - 00:06:22\tSección 2: \"Pido castigo\" por Neruda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Se recitan versos de Pablo Neruda para exigir que los responsables de la represión y las muertes sean juzgados y castigados."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:06:41 - 00:07:24\tSección 3: Adhesiones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "La presentadora explica que, debido al gran número de adhesiones recibidas por FEDEFAM y al programa de oradores, solo podrán leerse algunas, mientras que las restantes serán exhibidas en el Hotel Castelar."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:07:25 - 00:07:40\tSección 3: Carta 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eduardo Galeano comunica que un infarto le impide viajar a Buenos Aires, pero expresa su plena solidaridad con el Congreso."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:07:53 - 00:08:53\tSección 3: Carta 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Un grupo de presas políticas chilenas manifiesta desde Asunción que su encarcelamiento forma parte de las luchas populares y agradece la defensa solidaria de su vida y libertad."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:08:57 - 00:11:22\tSección 3: Carta 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Los presos políticos argentinos sobrevivientes del terrorismo de Estado saludan la unidad latinoamericana y exhortan a mantener viva la memoria y el reclamo por cada persona desaparecida hasta alcanzar la verdad."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:11:38 - 00:19:42\tSección 4: Loyola Guzmán"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Se presenta a Loyola Guzmán, integrante de una asociación boliviana de familiares de detenidos y desaparecidos y presidenta de FEDEFAM. Loyola Guzmán agradece al pueblo argentino, denuncia la desaparición forzada y la represión en América Latina, y reafirma la lucha continental por la aparición con vida, la restitución de los niños, el juicio a los culpables y el reconocimiento internacional de este crimen de lesa humanidad."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:20:06 - 00:28:05\tSección 5: Patrick Rice"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Se presenta al sacerdote irlandés Patrick Rice, recordando su secuestro en 1976 debido a su trabajo pastoral en Villa Soldati. Patrick Rice homenajea al jurista Alfredo Galletti por su compromiso con el Estado de derecho, los derechos humanos y la creación de instrumentos jurídicos internacionales contra la desaparición forzada."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:28:29 - 00:29:27\tSección 6: Saludos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Organizaciones católicas, audiovisuales y de derechos humanos del Perú envían sus saludos y deseos de éxito al Congreso."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "00:29:27 - 00:58:56\tSección 7: Dr. Eduardo Barcesat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Se anuncia la intervención del abogado Eduardo Barcesat. Eduardo Barcesat caracteriza la desaparición forzada como un crimen de lesa humanidad sustentado en el secreto, la clandestinidad y la impunidad, denuncia la complicidad judicial y reclama movilización popular, normas nacionales y una convención internacional que garanticen verdad, justicia y castigo; posteriormente se leen adhesiones y un representante metodista reflexiona sobre la transformación de una parte de la Iglesia latinoamericana ante el clamor de las víctimas y su compromiso con los sectores oprimidos."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Sección 1: Bienvenida",
+          "bold": true,
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 3,
+      "end": 291,
+      "file": "49cc9a9f-2ed9-4136-bb09-0ec35aa75914",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "2745a3a3-4506-41e4-9cb0-06e10c7b1622",
       "includes": [
@@ -35,7 +491,7 @@
   "created_by": "llilasbenson",
   "title": "V Congreso Argentina 1984",
   "slug": "v-congreso-argentina-1984",
-  "updated_at": "2026-07-16T01:12:24.312Z",
+  "updated_at": "2026-07-16T01:36:45.894Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
     "enabled": false,
